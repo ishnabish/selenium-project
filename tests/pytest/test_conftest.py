@@ -1,6 +1,6 @@
 import time
 
-from selenium.webdriver.chrome.webdriver import WebD
+from selenium.webdriver.chrome.webdriver import WebDriver
 
 
 def test_conftest(driver: WebDriver):
