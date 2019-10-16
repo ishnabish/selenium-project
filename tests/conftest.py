@@ -10,5 +10,3 @@ def driver(request):
     yield chrome_driver
     print('stop fixture')
     chrome_driver.close()
-
-        ##
